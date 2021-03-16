@@ -25,6 +25,7 @@ Simple Pokedex built with Vue/Nuxt
 - Cater mobile view/responsiveness
 - Add more detailed information in /details page(Evolution, type weakness, etc.)
 - Add animation to make the app more engaging
+- Improve overall interface(Layout, alignment)
 
 <b>Technical</b>
 - Reduce API request
@@ -52,3 +53,11 @@ $ npm run dev
 ```
 
 In browser, open [http://localhost:3000](http://localhost:3000)
+
+## Snapshots
+
+![image](https://user-images.githubusercontent.com/29895128/111360592-e4319280-86c7-11eb-9f9b-61337b929ae0.png)
+
+![image](https://user-images.githubusercontent.com/29895128/111360633-f1e71800-86c7-11eb-9a14-83dac420bb77.png)
+
+
