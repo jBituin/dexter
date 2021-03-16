@@ -1,0 +1,75 @@
+:root {
+  --fire: #f08030;
+  --flying: #a890f0;
+  --grass: #78c850;
+  --poison: #a040a0;
+  --bug: #a8b820;
+  --water: #6890f0;
+  --normal: #a8a878;
+  --fighting: #c03028;
+  --electric: #f8d02c;
+  --ground: #e0c068;
+  --psychic: #f85888;
+  --ice: #98d8d8;
+  --rock: #b8a038;
+  --dragon: #7038f8;
+  --ghost: #705898;
+  --dark: #705848;
+  --steel: #b8b8d0;
+  --fairy: #ee99ac;
+  --none: transparent;
+}
+.is-fire {
+  background: var(--fire) !important;
+}
+.is-flying {
+  background: var(--flying) !important;
+}
+.is-grass {
+  background: var(--grass) !important;
+}
+.is-poison {
+  background: var(--poison) !important;
+}
+.is-bug {
+  background: var(--bug) !important;
+}
+.is-water {
+  background: var(--water) !important;
+}
+.is-normal {
+  background: var(--normal) !important;
+}
+.is-fighting {
+  background: var(--fighting) !important;
+}
+.is-electric {
+  background: var(--electric) !important;
+}
+.is-ground {
+  background: var(--ground) !important;
+}
+.is-psychic {
+  background: var(--psychic) !important;
+}
+.is-ice {
+  background: var(--ice) !important;
+}
+.is-rock {
+  background: var(--rock) !important;
+}
+.is-dragon {
+  background: var(--dragon) !important;
+}
+.is-ghost {
+  background: var(--ghost) !important;
+}
+.is-dark {
+  background: var(--dark) !important;
+}
+.is-steel {
+  background: var(--steel) !important;
+}
+.is-fairy {
+  background: var(--fairy) !important;
+}
